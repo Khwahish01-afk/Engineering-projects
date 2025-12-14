@@ -1,0 +1,10 @@
+Engineering Projects
+This repository contains selected academic and internship projects across
+VLSI/ASIC design, digital hardware, embedded systems, and AI/IoT integration.
+Core Areas
+- RTL Design and Verification
+- ASIC Physical Design (RTL-to-GDS)
+- VLSI Testing and DFT
+- Embedded and Intelligent Systems
+Tools & Technologies
+Verilog, SystemVerilog, OpenLane, Qflow, Yosys, MATLAB, Arduino, Linux
